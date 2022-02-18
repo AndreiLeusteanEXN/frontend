@@ -1,0 +1,16 @@
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\HTMLSerializer.exe
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\HTMLSerializer.deps.json
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\HTMLSerializer.runtimeconfig.json
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\HTMLSerializer.runtimeconfig.dev.json
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\HTMLSerializer.dll
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\ref\HTMLSerializer.dll
+D:\internship\projects\HTMLSerializer\HTMLSerializer\bin\Debug\net5.0\HTMLSerializer.pdb
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.csproj.AssemblyReference.cache
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.AssemblyInfoInputs.cache
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.AssemblyInfo.cs
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.csproj.CoreCompileInputs.cache
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.dll
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\ref\HTMLSerializer.dll
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.pdb
+D:\internship\projects\HTMLSerializer\HTMLSerializer\obj\Debug\net5.0\HTMLSerializer.genruntimeconfig.cache

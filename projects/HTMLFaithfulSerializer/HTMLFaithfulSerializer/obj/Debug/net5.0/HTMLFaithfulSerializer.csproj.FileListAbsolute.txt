@@ -1,0 +1,16 @@
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\HTMLFaithfulSerializer.exe
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\HTMLFaithfulSerializer.deps.json
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\HTMLFaithfulSerializer.runtimeconfig.json
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\HTMLFaithfulSerializer.runtimeconfig.dev.json
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\HTMLFaithfulSerializer.dll
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\ref\HTMLFaithfulSerializer.dll
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\bin\Debug\net5.0\HTMLFaithfulSerializer.pdb
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.csproj.AssemblyReference.cache
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.AssemblyInfoInputs.cache
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.AssemblyInfo.cs
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.csproj.CoreCompileInputs.cache
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.dll
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\ref\HTMLFaithfulSerializer.dll
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.pdb
+D:\internship\projects\HTMLFaithfulSerializer\HTMLFaithfulSerializer\obj\Debug\net5.0\HTMLFaithfulSerializer.genruntimeconfig.cache
